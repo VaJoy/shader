@@ -1,0 +1,133 @@
+{
+  "f12af99c-9aef-4176-96f0-2168d58d427e": {
+    "url": "db://assets/1-green",
+    "value": {},
+    "versionCode": 1
+  },
+  "2f0c3d89-0ca0-4a0c-9649-31c82fe21694": {
+    "url": "db://assets/1-green/scene.scene",
+    "value": {
+      "depends": [
+        "2f0c3d89-0ca0-4a0c-9649-31c82fe21694",
+        "3c0e6265-7962-42da-8280-5b991ffd84f1",
+        "0408f80e-63a6-49ff-9e2d-adf015bb8093@f9941"
+      ],
+      "dependScripts": []
+    },
+    "versionCode": 1
+  },
+  "40cc2456-6bee-4d1a-ad91-1c8c76ca8097": {
+    "url": "db://assets/1-point/material.mtl",
+    "value": {},
+    "versionCode": 1
+  },
+  "10d0d9da-2bec-4438-8da9-99c81d8c6116": {
+    "url": "db://assets/1-point/effect.effect",
+    "value": {},
+    "versionCode": 1
+  },
+  "39b625a2-31e0-498b-8f63-2019331631d4": {
+    "url": "db://assets/1-point/red-dot.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "ac94635b-9859-414c-aff9-786ad13b7bd6": {
+    "url": "db://assets/1-point/RedDotController.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "3c0e6265-7962-42da-8280-5b991ffd84f1": {
+    "url": "db://assets/1-green/material.mtl",
+    "value": {
+      "depends": [
+        "c7b76d61-3d26-4aca-bc7c-4b4e07366c86"
+      ]
+    },
+    "versionCode": 1
+  },
+  "5fb5c7c9-0a74-4f75-8936-6eb633f53d89": {
+    "url": "db://assets/1-point/effect-001.effect",
+    "value": {},
+    "versionCode": 1
+  },
+  "88ebc6cd-a38f-4855-a39b-2b51d9a551ed": {
+    "url": "db://assets/1-point/surface-effect.effect",
+    "value": {},
+    "versionCode": 1
+  },
+  "68742fa8-d333-42a2-9709-dfbc5099daba": {
+    "url": "db://assets/1-point/builtin-unlit.effect",
+    "value": {},
+    "versionCode": 1
+  },
+  "b040b02d-c774-4308-9d22-2c5b14374d31": {
+    "url": "db://assets/common",
+    "value": {},
+    "versionCode": 1
+  },
+  "15bbc597-6b22-4088-85f2-1e0d099b2483": {
+    "url": "db://assets/common/img",
+    "value": {},
+    "versionCode": 1
+  },
+  "ab66f8dd-b54f-4e23-b86c-fd3c46eacead": {
+    "url": "db://assets/common/img/IMG_7060.JPG",
+    "value": {},
+    "versionCode": 1
+  },
+  "ab66f8dd-b54f-4e23-b86c-fd3c46eacead@6c48a": {
+    "url": "db://assets/common/img/IMG_7060.JPG@6c48a",
+    "value": {
+      "depends": [
+        "ab66f8dd-b54f-4e23-b86c-fd3c46eacead"
+      ]
+    },
+    "versionCode": 1
+  },
+  "ab66f8dd-b54f-4e23-b86c-fd3c46eacead@f9941": {
+    "url": "db://assets/common/img/IMG_7060.JPG@f9941",
+    "value": {
+      "depends": [
+        "ab66f8dd-b54f-4e23-b86c-fd3c46eacead@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "0408f80e-63a6-49ff-9e2d-adf015bb8093": {
+    "url": "db://assets/common/img/avatar.JPG",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "0408f80e-63a6-49ff-9e2d-adf015bb8093@6c48a": {
+    "url": "db://assets/common/img/avatar.JPG@6c48a",
+    "value": {
+      "depends": [
+        "0408f80e-63a6-49ff-9e2d-adf015bb8093"
+      ]
+    },
+    "versionCode": 1
+  },
+  "0408f80e-63a6-49ff-9e2d-adf015bb8093@f9941": {
+    "url": "db://assets/common/img/avatar.JPG@f9941",
+    "value": {
+      "depends": [
+        "0408f80e-63a6-49ff-9e2d-adf015bb8093@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "c7b76d61-3d26-4aca-bc7c-4b4e07366c86": {
+    "url": "db://assets/1-green/surface-effect.effect",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "ccc80891-2300-48b3-ae83-2f2332282500": {
+    "url": "db://assets/1-point/surface-effect2.effect",
+    "value": {},
+    "versionCode": 1
+  }
+}

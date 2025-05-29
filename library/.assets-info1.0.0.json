@@ -1,0 +1,170 @@
+{
+  "version": "1.0.0",
+  "map": {
+    "/Users/vajoylan/Documents/Projects/island-of-light/shaders/assets/1-point.meta": {
+      "time": 1748258066951.9573
+    },
+    "/Users/vajoylan/Documents/Projects/island-of-light/shaders/assets/1-point": {
+      "time": 1748494099408.73,
+      "uuid": "f12af99c-9aef-4176-96f0-2168d58d427e"
+    },
+    "/Users/vajoylan/Documents/Projects/island-of-light/shaders/assets/1-point/scene.scene.meta": {
+      "time": 1748258090050.0122
+    },
+    "/Users/vajoylan/Documents/Projects/island-of-light/shaders/assets/1-point/scene.scene": {
+      "time": 1748494105105.0593,
+      "uuid": "2f0c3d89-0ca0-4a0c-9649-31c82fe21694"
+    },
+    "/Users/vajoylan/Documents/Projects/island-of-light/shaders/assets/1-point/material.mtl.meta": {
+      "time": 1748259048476.8777
+    },
+    "/Users/vajoylan/Documents/Projects/island-of-light/shaders/assets/1-point/material.mtl": {
+      "time": 1748491098486.296,
+      "uuid": "3c0e6265-7962-42da-8280-5b991ffd84f1"
+    },
+    "/Users/vajoylan/Documents/Projects/island-of-light/shaders/assets/common.meta": {
+      "time": 1748463506434.9836
+    },
+    "/Users/vajoylan/Documents/Projects/island-of-light/shaders/assets/common": {
+      "time": 1748463521421.136,
+      "uuid": "b040b02d-c774-4308-9d22-2c5b14374d31"
+    },
+    "/Users/vajoylan/Documents/Projects/island-of-light/shaders/assets/common/img.meta": {
+      "time": 1748463510604.736
+    },
+    "/Users/vajoylan/Documents/Projects/island-of-light/shaders/assets/common/img": {
+      "time": 1748463704935.4978,
+      "uuid": "15bbc597-6b22-4088-85f2-1e0d099b2483"
+    },
+    "/Users/vajoylan/Documents/Projects/island-of-light/shaders/assets/common/img/avatar.JPG.meta": {
+      "time": 1748483524330.6873
+    },
+    "/Users/vajoylan/Documents/Projects/island-of-light/shaders/assets/common/img/avatar.JPG": {
+      "time": 1631443056000,
+      "uuid": "0408f80e-63a6-49ff-9e2d-adf015bb8093"
+    },
+    "/Users/vajoylan/Documents/Projects/island-of-light/shaders/assets/1-point/surface-effect.effect.meta": {
+      "time": 1748491059427.0342
+    },
+    "/Users/vajoylan/Documents/Projects/island-of-light/shaders/assets/1-point/surface-effect.effect": {
+      "time": 1748494086015.6938,
+      "uuid": "c7b76d61-3d26-4aca-bc7c-4b4e07366c86"
+    },
+    "/Users/vajoylan/Documents/GitHub/shader/assets/common": {
+      "time": 1748463521421.136,
+      "uuid": "b040b02d-c774-4308-9d22-2c5b14374d31"
+    },
+    "/Users/vajoylan/Documents/GitHub/shader/assets/common/img": {
+      "time": 1748463704935.4978,
+      "uuid": "15bbc597-6b22-4088-85f2-1e0d099b2483"
+    },
+    "/Users/vajoylan/Documents/GitHub/shader/assets/common.meta": {
+      "time": 1748463506434.9836
+    },
+    "/Users/vajoylan/Documents/GitHub/shader/assets/common/img.meta": {
+      "time": 1748463510604.736
+    },
+    "/Users/vajoylan/Documents/GitHub/shader/assets/common/img/avatar.JPG": {
+      "time": 1631443056000,
+      "uuid": "0408f80e-63a6-49ff-9e2d-adf015bb8093"
+    },
+    "/Users/vajoylan/Documents/GitHub/shader/assets/common/img/avatar.JPG.meta": {
+      "time": 1748483524330.6873
+    },
+    "/Users/vajoylan/Documents/GitHub/shader/assets/1-green.meta": {
+      "time": 1748258066951.9573
+    },
+    "/Users/vajoylan/Documents/GitHub/shader/assets/1-green": {
+      "time": 1748494099408.73,
+      "uuid": "f12af99c-9aef-4176-96f0-2168d58d427e"
+    },
+    "/Users/vajoylan/Documents/GitHub/shader/assets/1-green/surface-effect.effect.meta": {
+      "time": 1748491059427.0342
+    },
+    "/Users/vajoylan/Documents/GitHub/shader/assets/1-green/surface-effect.effect": {
+      "time": 1748494086015.6938,
+      "uuid": "c7b76d61-3d26-4aca-bc7c-4b4e07366c86"
+    },
+    "/Users/vajoylan/Documents/GitHub/shader/assets/1-green/material.mtl.meta": {
+      "time": 1748259048476.8777
+    },
+    "/Users/vajoylan/Documents/GitHub/shader/assets/1-green/material.mtl": {
+      "time": 1748491098486.296,
+      "uuid": "3c0e6265-7962-42da-8280-5b991ffd84f1"
+    },
+    "/Users/vajoylan/Documents/GitHub/shader/assets/1-green/scene.scene.meta": {
+      "time": 1748258090050.0122
+    },
+    "/Users/vajoylan/Documents/GitHub/shader/assets/1-green/scene.scene": {
+      "time": 1748495814390.5825,
+      "uuid": "2f0c3d89-0ca0-4a0c-9649-31c82fe21694"
+    }
+  },
+  "missing": {
+    "40cc2456-6bee-4d1a-ad91-1c8c76ca8097": {
+      "path": "/Users/vajoylan/Documents/Projects/island-of-light/shaders/assets/1-point/material.mtl",
+      "time": 1748258106213.0217,
+      "removeTime": 1748258114552
+    },
+    "39b625a2-31e0-498b-8f63-2019331631d4": {
+      "path": "/Users/vajoylan/Documents/Projects/island-of-light/shaders/assets/1-point/red-dot.ts",
+      "time": 1748258951466.743,
+      "removeTime": 1748258974649
+    },
+    "ab66f8dd-b54f-4e23-b86c-fd3c46eacead": {
+      "path": "/Users/vajoylan/Documents/Projects/island-of-light/shaders/assets/common/img/IMG_7060.JPG",
+      "time": 1651553505000,
+      "removeTime": 1748463706532
+    },
+    "10d0d9da-2bec-4438-8da9-99c81d8c6116": {
+      "path": "/Users/vajoylan/Documents/Projects/island-of-light/shaders/assets/1-point/effect.effect",
+      "time": 1748474592968.6162,
+      "removeTime": 1748492493612
+    },
+    "5fb5c7c9-0a74-4f75-8936-6eb633f53d89": {
+      "path": "/Users/vajoylan/Documents/Projects/island-of-light/shaders/assets/1-point/effect-001.effect",
+      "time": 1748269440318.945,
+      "removeTime": 1748492499147
+    },
+    "68742fa8-d333-42a2-9709-dfbc5099daba": {
+      "path": "/Users/vajoylan/Documents/Projects/island-of-light/shaders/assets/1-point/builtin-unlit.effect",
+      "time": 1742837200000,
+      "removeTime": 1748492503135
+    },
+    "ac94635b-9859-414c-aff9-786ad13b7bd6": {
+      "path": "/Users/vajoylan/Documents/Projects/island-of-light/shaders/assets/1-point/RedDotController.ts",
+      "time": 1748463904594.9077,
+      "removeTime": 1748492519585
+    },
+    "88ebc6cd-a38f-4855-a39b-2b51d9a551ed": {
+      "path": "/Users/vajoylan/Documents/Projects/island-of-light/shaders/assets/1-point/surface-effect.effect",
+      "time": 1748269589915.1553,
+      "removeTime": 1748492525233
+    },
+    "c7b76d61-3d26-4aca-bc7c-4b4e07366c86": {
+      "path": "/Users/vajoylan/Documents/GitHub/shader/assets/1-point/surface-effect.effect",
+      "time": 1748494086015.6938,
+      "removeTime": 1748495810853
+    },
+    "ccc80891-2300-48b3-ae83-2f2332282500": {
+      "path": "/Users/vajoylan/Documents/Projects/island-of-light/shaders/assets/1-point/surface-effect2.effect",
+      "time": 1748493981265.2615,
+      "removeTime": 1748494099409
+    },
+    "f12af99c-9aef-4176-96f0-2168d58d427e": {
+      "path": "/Users/vajoylan/Documents/GitHub/shader/assets/1-point",
+      "time": 1748494099408.73,
+      "removeTime": 1748495810853
+    },
+    "3c0e6265-7962-42da-8280-5b991ffd84f1": {
+      "path": "/Users/vajoylan/Documents/GitHub/shader/assets/1-point/material.mtl",
+      "time": 1748491098486.296,
+      "removeTime": 1748495810854
+    },
+    "2f0c3d89-0ca0-4a0c-9649-31c82fe21694": {
+      "path": "/Users/vajoylan/Documents/GitHub/shader/assets/1-point/scene.scene",
+      "time": 1748494105105.0593,
+      "removeTime": 1748495810854
+    }
+  }
+}

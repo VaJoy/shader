@@ -1,0 +1,40 @@
+// Effect Syntax Guide: https://docs.cocos.com/creator/manual/zh/shader/index.html
+
+CCEffect %{
+  techniques:
+  - name: opaque
+    passes:
+    - vert: vs:vert
+      frag: fs:frag
+}%
+
+
+CCProgram vs %{
+  precision highp float;
+  #include <cc-global>
+  #if USE_LOCAL
+    #include <cc-local>
+  #endif
+  in vec3 a_position;
+  
+  vec4 vert() {
+    vec4 pos = vec4(a_position, 1);
+
+    #if USE_LOCAL
+      pos = cc_matWorld * pos;
+    #endif
+
+    pos = cc_matViewProj * pos;
+    
+    return  pos;
+  }
+}%
+
+CCProgram fs %{
+  precision highp float;
+
+  vec4 frag() {
+    return vec4(0.0, 1.0, 0.0, 1.0);
+  }
+}%
+

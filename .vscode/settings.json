@@ -1,0 +1,10 @@
+{
+    "ShortcutMenuBar.commentLine": true,
+    "ShortcutMenuBar.beautify": true,
+    "ShortcutMenuBar.indentLines": true,
+    "ShortcutMenuBar.navigateBack": false,
+    "ShortcutMenuBar.navigateForward": false,
+    "ShortcutMenuBar.openFilesList": false,
+    "ShortcutMenuBar.toggleTerminal": false,
+    "ShortcutMenuBar.outdentLines": true
+}
