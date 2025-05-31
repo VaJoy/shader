@@ -69,35 +69,70 @@
       "uuid": "0408f80e-63a6-49ff-9e2d-adf015bb8093"
     },
     "/Users/vajoylan/Documents/GitHub/shader/assets/common/img/avatar.JPG.meta": {
-      "time": 1748483524330.6873
+      "time": 1748505735439.6633
     },
-    "/Users/vajoylan/Documents/GitHub/shader/assets/1-green.meta": {
+    "/Users/vajoylan/Documents/GitHub/shader/assets/basic.meta": {
+      "time": 1748638990955.4434
+    },
+    "/Users/vajoylan/Documents/GitHub/shader/assets/basic": {
+      "time": 1748638997828.252,
+      "uuid": "be880453-7ae8-478c-a6ac-d2a4e6939bd9"
+    },
+    "/Users/vajoylan/Documents/GitHub/shader/assets/basic/1-green.meta": {
       "time": 1748258066951.9573
     },
-    "/Users/vajoylan/Documents/GitHub/shader/assets/1-green": {
+    "/Users/vajoylan/Documents/GitHub/shader/assets/basic/1-green": {
       "time": 1748494099408.73,
       "uuid": "f12af99c-9aef-4176-96f0-2168d58d427e"
     },
-    "/Users/vajoylan/Documents/GitHub/shader/assets/1-green/surface-effect.effect.meta": {
-      "time": 1748491059427.0342
-    },
-    "/Users/vajoylan/Documents/GitHub/shader/assets/1-green/surface-effect.effect": {
-      "time": 1748494086015.6938,
-      "uuid": "c7b76d61-3d26-4aca-bc7c-4b4e07366c86"
-    },
-    "/Users/vajoylan/Documents/GitHub/shader/assets/1-green/material.mtl.meta": {
+    "/Users/vajoylan/Documents/GitHub/shader/assets/basic/1-green/material.mtl.meta": {
       "time": 1748259048476.8777
     },
-    "/Users/vajoylan/Documents/GitHub/shader/assets/1-green/material.mtl": {
+    "/Users/vajoylan/Documents/GitHub/shader/assets/basic/1-green/material.mtl": {
       "time": 1748491098486.296,
       "uuid": "3c0e6265-7962-42da-8280-5b991ffd84f1"
     },
-    "/Users/vajoylan/Documents/GitHub/shader/assets/1-green/scene.scene.meta": {
+    "/Users/vajoylan/Documents/GitHub/shader/assets/basic/1-green/surface-effect.effect.meta": {
+      "time": 1748491059427.0342
+    },
+    "/Users/vajoylan/Documents/GitHub/shader/assets/basic/1-green/surface-effect.effect": {
+      "time": 1748494086015.6938,
+      "uuid": "c7b76d61-3d26-4aca-bc7c-4b4e07366c86"
+    },
+    "/Users/vajoylan/Documents/GitHub/shader/assets/basic/1-green/scene.scene.meta": {
       "time": 1748258090050.0122
     },
-    "/Users/vajoylan/Documents/GitHub/shader/assets/1-green/scene.scene": {
+    "/Users/vajoylan/Documents/GitHub/shader/assets/basic/1-green/scene.scene": {
       "time": 1748495814390.5825,
       "uuid": "2f0c3d89-0ca0-4a0c-9649-31c82fe21694"
+    },
+    "/Users/vajoylan/Documents/GitHub/shader/assets/basic/2-opaque-green.meta": {
+      "time": 1748496292509.2
+    },
+    "/Users/vajoylan/Documents/GitHub/shader/assets/basic/2-opaque-green": {
+      "time": 1748496366320.684,
+      "uuid": "ef433198-74ef-48ab-a9ba-344c68819dab"
+    },
+    "/Users/vajoylan/Documents/GitHub/shader/assets/basic/2-opaque-green/surface-effect.effect.meta": {
+      "time": 1748650395137.087
+    },
+    "/Users/vajoylan/Documents/GitHub/shader/assets/basic/2-opaque-green/surface-effect.effect": {
+      "time": 1748650547161.1746,
+      "uuid": "b3311d0c-2cc3-4c66-9565-7b43b01d63b3"
+    },
+    "/Users/vajoylan/Documents/GitHub/shader/assets/basic/2-opaque-green/material.mtl.meta": {
+      "time": 1748496366327.641
+    },
+    "/Users/vajoylan/Documents/GitHub/shader/assets/basic/2-opaque-green/material.mtl": {
+      "time": 1748496376906.5525,
+      "uuid": "c5b97b17-278c-40e1-b5d6-d75492c43281"
+    },
+    "/Users/vajoylan/Documents/GitHub/shader/assets/basic/2-opaque-green/scene.scene.meta": {
+      "time": 1748496322901.3784
+    },
+    "/Users/vajoylan/Documents/GitHub/shader/assets/basic/2-opaque-green/scene.scene": {
+      "time": 1748650551272.01,
+      "uuid": "bf9e1327-1bab-44af-9fea-c6aa73ca2b74"
     }
   },
   "missing": {
@@ -142,9 +177,9 @@
       "removeTime": 1748492525233
     },
     "c7b76d61-3d26-4aca-bc7c-4b4e07366c86": {
-      "path": "/Users/vajoylan/Documents/GitHub/shader/assets/1-point/surface-effect.effect",
+      "path": "/Users/vajoylan/Documents/GitHub/shader/assets/1-green/surface-effect.effect",
       "time": 1748494086015.6938,
-      "removeTime": 1748495810853
+      "removeTime": 1748638994876
     },
     "ccc80891-2300-48b3-ae83-2f2332282500": {
       "path": "/Users/vajoylan/Documents/Projects/island-of-light/shaders/assets/1-point/surface-effect2.effect",
@@ -152,19 +187,39 @@
       "removeTime": 1748494099409
     },
     "f12af99c-9aef-4176-96f0-2168d58d427e": {
-      "path": "/Users/vajoylan/Documents/GitHub/shader/assets/1-point",
+      "path": "/Users/vajoylan/Documents/GitHub/shader/assets/1-green",
       "time": 1748494099408.73,
-      "removeTime": 1748495810853
+      "removeTime": 1748638994876
     },
     "3c0e6265-7962-42da-8280-5b991ffd84f1": {
-      "path": "/Users/vajoylan/Documents/GitHub/shader/assets/1-point/material.mtl",
+      "path": "/Users/vajoylan/Documents/GitHub/shader/assets/1-green/material.mtl",
       "time": 1748491098486.296,
-      "removeTime": 1748495810854
+      "removeTime": 1748638994876
     },
     "2f0c3d89-0ca0-4a0c-9649-31c82fe21694": {
-      "path": "/Users/vajoylan/Documents/GitHub/shader/assets/1-point/scene.scene",
-      "time": 1748494105105.0593,
-      "removeTime": 1748495810854
+      "path": "/Users/vajoylan/Documents/GitHub/shader/assets/1-green/scene.scene",
+      "time": 1748495814390.5825,
+      "removeTime": 1748638994877
+    },
+    "ef433198-74ef-48ab-a9ba-344c68819dab": {
+      "path": "/Users/vajoylan/Documents/GitHub/shader/assets/2-opaque-green",
+      "time": 1748496366320.684,
+      "removeTime": 1748638997829
+    },
+    "b3311d0c-2cc3-4c66-9565-7b43b01d63b3": {
+      "path": "/Users/vajoylan/Documents/GitHub/shader/assets/2-opaque-green/surface-effect.effect",
+      "time": 1748505655549.861,
+      "removeTime": 1748638997829
+    },
+    "c5b97b17-278c-40e1-b5d6-d75492c43281": {
+      "path": "/Users/vajoylan/Documents/GitHub/shader/assets/2-opaque-green/material.mtl",
+      "time": 1748496376906.5525,
+      "removeTime": 1748638997829
+    },
+    "bf9e1327-1bab-44af-9fea-c6aa73ca2b74": {
+      "path": "/Users/vajoylan/Documents/GitHub/shader/assets/2-opaque-green/scene.scene",
+      "time": 1748505737145.95,
+      "removeTime": 1748638997829
     }
   }
 }

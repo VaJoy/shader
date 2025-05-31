@@ -11,6 +11,22 @@
     ],
     "/Users/vajoylan/Documents/GitHub/shader/assets/1-green/material.mtl": [
       "c7b76d61-3d26-4aca-bc7c-4b4e07366c86"
+    ],
+    "/Users/vajoylan/Documents/GitHub/shader/assets/2-dot/material.mtl": [
+      "c8f66d17-351a-48da-a12c-0212d28575c4",
+      "b3311d0c-2cc3-4c66-9565-7b43b01d63b3"
+    ],
+    "/Users/vajoylan/Documents/GitHub/shader/assets/2-op/material.mtl": [
+      "b3311d0c-2cc3-4c66-9565-7b43b01d63b3"
+    ],
+    "/Users/vajoylan/Documents/GitHub/shader/assets/2-opaque-green/material.mtl": [
+      "b3311d0c-2cc3-4c66-9565-7b43b01d63b3"
+    ],
+    "/Users/vajoylan/Documents/GitHub/shader/assets/basic/1-green/material.mtl": [
+      "c7b76d61-3d26-4aca-bc7c-4b4e07366c86"
+    ],
+    "/Users/vajoylan/Documents/GitHub/shader/assets/basic/2-opaque-green/material.mtl": [
+      "b3311d0c-2cc3-4c66-9565-7b43b01d63b3"
     ]
   },
   "path": {
@@ -35,6 +51,56 @@
       "/Users/vajoylan/Documents/GitHub/shader/assets/chunks/fs.chunk"
     ],
     "/Users/vajoylan/Documents/GitHub/shader/assets/1-green/surface-effect.effect": [
+      "/Applications/Cocos/Creator/3.8.6/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/vs.chunk",
+      "/Applications/Cocos/Creator/3.8.6/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-global.chunk",
+      "/Applications/Cocos/Creator/3.8.6/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-local.chunk",
+      "/Applications/Cocos/Creator/3.8.6/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/fs.chunk",
+      "/Users/vajoylan/Documents/GitHub/shader/assets/chunks/vs.chunk",
+      "/Users/vajoylan/Documents/GitHub/shader/assets/chunks/cc-global.chunk",
+      "/Users/vajoylan/Documents/GitHub/shader/assets/chunks/cc-local.chunk",
+      "/Users/vajoylan/Documents/GitHub/shader/assets/chunks/fs.chunk"
+    ],
+    "/Users/vajoylan/Documents/GitHub/shader/assets/2-dot/surface-effect.effect": [
+      "/Applications/Cocos/Creator/3.8.6/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/vs.chunk",
+      "/Applications/Cocos/Creator/3.8.6/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-global.chunk",
+      "/Applications/Cocos/Creator/3.8.6/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-local.chunk",
+      "/Applications/Cocos/Creator/3.8.6/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/fs.chunk",
+      "/Users/vajoylan/Documents/GitHub/shader/assets/chunks/vs.chunk",
+      "/Users/vajoylan/Documents/GitHub/shader/assets/chunks/cc-global.chunk",
+      "/Users/vajoylan/Documents/GitHub/shader/assets/chunks/cc-local.chunk",
+      "/Users/vajoylan/Documents/GitHub/shader/assets/chunks/fs.chunk"
+    ],
+    "/Users/vajoylan/Documents/GitHub/shader/assets/2-op/surface-effect.effect": [
+      "/Applications/Cocos/Creator/3.8.6/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/vs.chunk",
+      "/Applications/Cocos/Creator/3.8.6/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-global.chunk",
+      "/Applications/Cocos/Creator/3.8.6/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-local.chunk",
+      "/Applications/Cocos/Creator/3.8.6/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/fs.chunk",
+      "/Users/vajoylan/Documents/GitHub/shader/assets/chunks/vs.chunk",
+      "/Users/vajoylan/Documents/GitHub/shader/assets/chunks/cc-global.chunk",
+      "/Users/vajoylan/Documents/GitHub/shader/assets/chunks/cc-local.chunk",
+      "/Users/vajoylan/Documents/GitHub/shader/assets/chunks/fs.chunk"
+    ],
+    "/Users/vajoylan/Documents/GitHub/shader/assets/2-opaque-green/surface-effect.effect": [
+      "/Applications/Cocos/Creator/3.8.6/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/vs.chunk",
+      "/Applications/Cocos/Creator/3.8.6/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-global.chunk",
+      "/Applications/Cocos/Creator/3.8.6/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-local.chunk",
+      "/Applications/Cocos/Creator/3.8.6/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/fs.chunk",
+      "/Users/vajoylan/Documents/GitHub/shader/assets/chunks/vs.chunk",
+      "/Users/vajoylan/Documents/GitHub/shader/assets/chunks/cc-global.chunk",
+      "/Users/vajoylan/Documents/GitHub/shader/assets/chunks/cc-local.chunk",
+      "/Users/vajoylan/Documents/GitHub/shader/assets/chunks/fs.chunk"
+    ],
+    "/Users/vajoylan/Documents/GitHub/shader/assets/basic/1-green/surface-effect.effect": [
+      "/Applications/Cocos/Creator/3.8.6/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/vs.chunk",
+      "/Applications/Cocos/Creator/3.8.6/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-global.chunk",
+      "/Applications/Cocos/Creator/3.8.6/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-local.chunk",
+      "/Applications/Cocos/Creator/3.8.6/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/fs.chunk",
+      "/Users/vajoylan/Documents/GitHub/shader/assets/chunks/vs.chunk",
+      "/Users/vajoylan/Documents/GitHub/shader/assets/chunks/cc-global.chunk",
+      "/Users/vajoylan/Documents/GitHub/shader/assets/chunks/cc-local.chunk",
+      "/Users/vajoylan/Documents/GitHub/shader/assets/chunks/fs.chunk"
+    ],
+    "/Users/vajoylan/Documents/GitHub/shader/assets/basic/2-opaque-green/surface-effect.effect": [
       "/Applications/Cocos/Creator/3.8.6/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/vs.chunk",
       "/Applications/Cocos/Creator/3.8.6/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-global.chunk",
       "/Applications/Cocos/Creator/3.8.6/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-local.chunk",
