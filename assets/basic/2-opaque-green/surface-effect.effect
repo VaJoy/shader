@@ -40,18 +40,19 @@ CCProgram vs %{
 CCProgram fs %{
   precision highp float;
 
-  // 定义闪白效果的颜色常量
-  const vec3 FLASH = vec3(0.0, 1.0, 0.0);
-
   in vec4 v_light;
   in vec2 uv0;
 
-  #pragma builtin(local)
-  layout(set = 2, binding = 12) uniform sampler2D cc_spriteTexture;
+  #pragma builtin(local)  // 不能用 #include <cc-local> 来引入包含精灵相关变量的模块
+  // cc_spriteTexture 是内置纹理变量
+  // 声明精灵的主纹理资源 cc_spriteTexture 在引擎自动绑定机制中所在的特定位置（描述符集 2， 绑定点 12）。这个位置是由引擎内部约定死的，不应该改为其它数值（即使修改后也能正常运行）。
+  layout(2, 12) uniform sampler2D cc_spriteTexture;  // 可以简写为 layout() uniform sampler2D cc_spriteTexture;
+  // 可以进一步简写为  uniform sampler2D cc_spriteTexture;   ，但是IDE会看不到图片纹理（运行则正常）
 
   vec4 frag() {
+    vec3 green = vec3(0.0, 1.0, 0.0);
     vec4 o = texture(cc_spriteTexture, uv0);
-    o.rgb = mix(FLASH, o.rgb, 0.5); 
+    o.rgb = mix(green, o.rgb, 0.5); 
     return o;
   }
 }%
