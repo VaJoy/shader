@@ -976,7 +976,7 @@
       ]
     },
     "cce:/internal/x/prerequisite-imports": {
-      "mTimestamp": 596663.628083,
+      "mTimestamp": 3473983.684833,
       "chunkId": "6d8fd2b0177941b032ddc0733af48a561fb60657",
       "imports": [
         {
@@ -1062,6 +1062,20 @@
               "column": 1058
             }
           }
+        },
+        {
+          "value": "file:///Users/vajoylan/Documents/GitHub/shader/assets/basic/3-opaque-property/ChangeCoverColor.ts",
+          "resolved": "__unresolved_6",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 1074
+            },
+            "end": {
+              "line": 5,
+              "column": 1173
+            }
+          }
         }
       ],
       "type": "esm",
@@ -1105,6 +1119,13 @@
           "resolved": {
             "type": "module",
             "url": "file:///Applications/Cocos/Creator/3.8.6/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/vajoylan/Documents/GitHub/shader/assets/basic/3-opaque-property/ChangeCoverColor.ts"
           },
           "messages": []
         }
@@ -1841,6 +1862,58 @@
         "uuid": "ce348d65-5d66-4246-8ee8-b8964bba5a20"
       },
       "chunkId": "2007a0c4dd67ebb604696664918dc1d2bd323e84",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 50
+            },
+            "end": {
+              "line": 1,
+              "column": 54
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/vajoylan/Documents/GitHub/shader/assets/basic/3-opaque-property/ChangeCoverColor.ts": {
+      "mTimestamp": {
+        "mtime": 1749151764157.7488,
+        "uuid": "301fc888-1947-489a-be26-310258e9b17f"
+      },
+      "chunkId": "dca408d9f628df8ae36bc5cf15309526defa5d97",
       "imports": [
         {
           "value": "cc"

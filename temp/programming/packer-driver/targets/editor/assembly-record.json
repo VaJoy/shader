@@ -564,9 +564,28 @@
             "id": "c107986e77a987fe49f2e4b1c0dcc489194dbd3f"
           },
           "messages": []
+        },
+        "__unresolved_6": {
+          "resolved": {
+            "type": "chunk",
+            "id": "dca408d9f628df8ae36bc5cf15309526defa5d97"
+          },
+          "messages": []
         }
       },
-      "timestamp": 1749148887709
+      "timestamp": 1749151765053
+    },
+    "dca408d9f628df8ae36bc5cf15309526defa5d97": {
+      "imports": {
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "93ba276ea7b26ffcdc433fab14afc1ed6f05647b"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1749151765059
     }
   },
   "entries": {
@@ -577,6 +596,7 @@
     "file:///Applications/Cocos/Creator/3.8.6/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_renderpipeline/builtin-pipeline-settings.ts": "de51ae29bdc33d4721612db5b322a18ddcf7dd5c",
     "file:///Applications/Cocos/Creator/3.8.6/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_renderpipeline/builtin-pipeline-types.ts": "f84f3b58ec61e2a9c03c5f86bacdfd0d6a2a3647",
     "file:///Applications/Cocos/Creator/3.8.6/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_renderpipeline/builtin-pipeline.ts": "60dfea53e1c17502cf4f0661946a964ad3ff0296",
-    "file:///Applications/Cocos/Creator/3.8.6/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts": "c107986e77a987fe49f2e4b1c0dcc489194dbd3f"
+    "file:///Applications/Cocos/Creator/3.8.6/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts": "c107986e77a987fe49f2e4b1c0dcc489194dbd3f",
+    "file:///Users/vajoylan/Documents/GitHub/shader/assets/basic/3-opaque-property/ChangeCoverColor.ts": "dca408d9f628df8ae36bc5cf15309526defa5d97"
   }
 }

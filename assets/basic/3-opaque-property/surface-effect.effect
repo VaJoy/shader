@@ -57,7 +57,7 @@ CCProgram fs %{
   vec4 frag() {
     // vec3 green = vec3(0.0, 1.0, 0.0);
     vec4 o = texture(cc_spriteTexture, uv0);
-    o.rgb = mix(coverColor.rgb, o.rgb, 0.2); 
+    o.rgb = mix(coverColor.rgb, o.rgb, 0.5); 
     return o;
   }
 }%

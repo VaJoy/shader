@@ -197,7 +197,9 @@
         "d62f73d6-f2fa-4597-aa96-c34317d079ce",
         "0408f80e-63a6-49ff-9e2d-adf015bb8093@f9941"
       ],
-      "dependScripts": []
+      "dependScripts": [
+        "301fc888-1947-489a-be26-310258e9b17f"
+      ]
     },
     "versionCode": 1
   },
@@ -213,6 +215,11 @@
   },
   "0ad7d402-8030-4a52-9f90-20c7fce6b49e": {
     "url": "db://assets/basic/3-opaque-attribute",
+    "value": {},
+    "versionCode": 1
+  },
+  "301fc888-1947-489a-be26-310258e9b17f": {
+    "url": "db://assets/basic/3-opaque-property/ChangeCoverColor.ts",
     "value": {},
     "versionCode": 1
   }
