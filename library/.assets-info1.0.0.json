@@ -75,7 +75,7 @@
       "time": 1748638990955.4434
     },
     "/Users/vajoylan/Documents/GitHub/shader/assets/basic": {
-      "time": 1748638997828.252,
+      "time": 1749148859732.66,
       "uuid": "be880453-7ae8-478c-a6ac-d2a4e6939bd9"
     },
     "/Users/vajoylan/Documents/GitHub/shader/assets/basic/1-green.meta": {
@@ -133,6 +133,34 @@
     "/Users/vajoylan/Documents/GitHub/shader/assets/basic/2-opaque-green/scene.scene": {
       "time": 1748654710885.3477,
       "uuid": "bf9e1327-1bab-44af-9fea-c6aa73ca2b74"
+    },
+    "/Users/vajoylan/Documents/GitHub/shader/assets/basic/3-opaque-property.meta": {
+      "time": 1748769511648.737
+    },
+    "/Users/vajoylan/Documents/GitHub/shader/assets/basic/3-opaque-property": {
+      "time": 1749148887688.7615,
+      "uuid": "1cd0efab-19f2-4b7c-a2b1-2eaa6627a120"
+    },
+    "/Users/vajoylan/Documents/GitHub/shader/assets/basic/3-opaque-property/material.mtl.meta": {
+      "time": 1748769511652.3667
+    },
+    "/Users/vajoylan/Documents/GitHub/shader/assets/basic/3-opaque-property/material.mtl": {
+      "time": 1748769676160.9578,
+      "uuid": "d62f73d6-f2fa-4597-aa96-c34317d079ce"
+    },
+    "/Users/vajoylan/Documents/GitHub/shader/assets/basic/3-opaque-property/surface-effect.effect.meta": {
+      "time": 1748771236680.0344
+    },
+    "/Users/vajoylan/Documents/GitHub/shader/assets/basic/3-opaque-property/surface-effect.effect": {
+      "time": 1749148886812.4885,
+      "uuid": "c40e1ee9-d55d-4c3c-b5db-7284ef338c66"
+    },
+    "/Users/vajoylan/Documents/GitHub/shader/assets/basic/3-opaque-property/scene.scene.meta": {
+      "time": 1748769511653.139
+    },
+    "/Users/vajoylan/Documents/GitHub/shader/assets/basic/3-opaque-property/scene.scene": {
+      "time": 1749148889573.3105,
+      "uuid": "f2630506-c95e-43bb-a9a3-576828247b9a"
     }
   },
   "missing": {
@@ -220,6 +248,41 @@
       "path": "/Users/vajoylan/Documents/GitHub/shader/assets/2-opaque-green/scene.scene",
       "time": 1748505737145.95,
       "removeTime": 1748638997829
+    },
+    "1cd0efab-19f2-4b7c-a2b1-2eaa6627a120": {
+      "path": "/Users/vajoylan/Documents/GitHub/shader/assets/basic/3-opaque-attribute",
+      "time": 1748771509449.3591,
+      "removeTime": 1748771831195
+    },
+    "c40e1ee9-d55d-4c3c-b5db-7284ef338c66": {
+      "path": "/Users/vajoylan/Documents/GitHub/shader/assets/basic/3-opaque-attribute/surface-effect.effect",
+      "time": 1748771813045.4565,
+      "removeTime": 1748771831195
+    },
+    "d62f73d6-f2fa-4597-aa96-c34317d079ce": {
+      "path": "/Users/vajoylan/Documents/GitHub/shader/assets/basic/3-opaque-attribute/material.mtl",
+      "time": 1748769676160.9578,
+      "removeTime": 1748771831195
+    },
+    "f2630506-c95e-43bb-a9a3-576828247b9a": {
+      "path": "/Users/vajoylan/Documents/GitHub/shader/assets/basic/3-opaque-attribute/scene.scene",
+      "time": 1748771739437.2349,
+      "removeTime": 1748771831195
+    },
+    "ce348d65-5d66-4246-8ee8-b8964bba5a20": {
+      "path": "/Users/vajoylan/Documents/GitHub/shader/assets/basic/3-opaque-property/SetColor.ts",
+      "time": 1748771668205.768,
+      "removeTime": 1749148887688
+    },
+    "0ad7d402-8030-4a52-9f90-20c7fce6b49e": {
+      "path": "/Users/vajoylan/Documents/GitHub/shader/assets/basic/3-opaque-attribute",
+      "time": 1748771844012.5034,
+      "removeTime": 1749148859732
+    },
+    "327b212e-a037-45cf-b9a1-7ddc2e086031": {
+      "path": "/Users/vajoylan/Documents/GitHub/shader/assets/basic/3-opaque-attribute/surface-effect.effect",
+      "time": 1748780159717.7573,
+      "removeTime": 1749148859732
     }
   }
 }

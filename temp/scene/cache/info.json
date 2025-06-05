@@ -2,11 +2,12 @@
     "systemInfo": {
         "arch": "arm64",
         "cpu": "Apple M4 Max",
-        "version": "Darwin Kernel Version 24.4.0: Fri Apr 11 18:32:50 PDT 2025; root:xnu-11417.101.15~117/RELEASE_ARM64_T6041"
+        "version": "Darwin Kernel Version 24.5.0: Tue Apr 22 19:53:27 PDT 2025; root:xnu-11417.121.6~2/RELEASE_ARM64_T6041"
     },
     "sceneListMap": {
         "2f0c3d89-0ca0-4a0c-9649-31c82fe21694": "/Users/vajoylan/Documents/Projects/island-of-light/shaders/assets/1-point/scene.scene",
-        "bf9e1327-1bab-44af-9fea-c6aa73ca2b74": "/Users/vajoylan/Documents/GitHub/shader/assets/2-dot/scene.scene"
+        "bf9e1327-1bab-44af-9fea-c6aa73ca2b74": "/Users/vajoylan/Documents/GitHub/shader/assets/2-dot/scene.scene",
+        "f2630506-c95e-43bb-a9a3-576828247b9a": "/Users/vajoylan/Documents/GitHub/shader/assets/basic/3-opaque-property/scene.scene"
     },
-    "deviceMd5": "2cec14f95379772b51e184ebdfa3964f"
+    "deviceMd5": "8f641af8f8e4931b3be154a1d9baa13e"
 }

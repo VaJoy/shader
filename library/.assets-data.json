@@ -167,5 +167,53 @@
     "url": "db://assets/basic",
     "value": {},
     "versionCode": 1
+  },
+  "1cd0efab-19f2-4b7c-a2b1-2eaa6627a120": {
+    "url": "db://assets/basic/3-opaque-property",
+    "value": {},
+    "versionCode": 1
+  },
+  "c40e1ee9-d55d-4c3c-b5db-7284ef338c66": {
+    "url": "db://assets/basic/3-opaque-property/surface-effect.effect",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "d62f73d6-f2fa-4597-aa96-c34317d079ce": {
+    "url": "db://assets/basic/3-opaque-property/material.mtl",
+    "value": {
+      "depends": [
+        "c40e1ee9-d55d-4c3c-b5db-7284ef338c66"
+      ]
+    },
+    "versionCode": 1
+  },
+  "f2630506-c95e-43bb-a9a3-576828247b9a": {
+    "url": "db://assets/basic/3-opaque-property/scene.scene",
+    "value": {
+      "depends": [
+        "f2630506-c95e-43bb-a9a3-576828247b9a",
+        "d62f73d6-f2fa-4597-aa96-c34317d079ce",
+        "0408f80e-63a6-49ff-9e2d-adf015bb8093@f9941"
+      ],
+      "dependScripts": []
+    },
+    "versionCode": 1
+  },
+  "ce348d65-5d66-4246-8ee8-b8964bba5a20": {
+    "url": "db://assets/basic/3-opaque-property/SetColor.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "327b212e-a037-45cf-b9a1-7ddc2e086031": {
+    "url": "db://assets/basic/3-opaque-attribute/surface-effect.effect",
+    "value": {},
+    "versionCode": 1
+  },
+  "0ad7d402-8030-4a52-9f90-20c7fce6b49e": {
+    "url": "db://assets/basic/3-opaque-attribute",
+    "value": {},
+    "versionCode": 1
   }
 }
