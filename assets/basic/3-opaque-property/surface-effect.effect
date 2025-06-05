@@ -8,6 +8,7 @@ CCEffect %{
       frag: fs:frag
       properties:
         coverColor: { value: [1.0, 0.0, 0.0, 1.0], editor: { type: color } }
+        mixPercent: { value: 0.2 }
 }%
 
 CCProgram vs %{
@@ -45,7 +46,7 @@ CCProgram fs %{
   in vec2 uv0;
   uniform Arg {
     vec4 coverColor;
-    float grayPercent;
+    float mixPercent;
   };
 
   #pragma builtin(local)  // 不能用 #include <cc-local> 来引入包含精灵相关变量的模块
@@ -55,10 +56,8 @@ CCProgram fs %{
   // 可以进一步简写为  uniform sampler2D cc_spriteTexture;   ，但是IDE会看不到图片纹理（运行则正常）
 
   vec4 frag() {
-    // vec3 green = vec3(0.0, 1.0, 0.0);
     vec4 o = texture(cc_spriteTexture, uv0);
-    o.rgb = mix(coverColor.rgb, o.rgb, 0.5); 
+    o.rgb = mix(coverColor.rgb, o.rgb, mixPercent); 
     return o;
   }
 }%
-

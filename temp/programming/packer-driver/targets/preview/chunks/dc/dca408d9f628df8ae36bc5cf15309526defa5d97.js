@@ -27,9 +27,10 @@ System.register(["cc"], function (_export, _context) {
 
       _export("ChangeCoverColor", ChangeCoverColor = (_dec = ccclass('ChangeCoverColor'), _dec(_class = class ChangeCoverColor extends Component {
         onLoad() {
-          var mat = this.getComponent(Sprite).material;
-          console.log(mat.getProperty('coverColor'));
-          mat.setProperty("coverColor", v4(0.0, 0.0, 1.0, 1.0));
+          var mat = this.getComponent(Sprite).sharedMaterial; // 共享材质
+          // const mat = this.getComponent(Sprite).material;  // 非共享材质，相当于 this.getComponent(Sprite).getMaterialInstance(0);
+
+          mat.setProperty("coverColor", v4(0.0, 1.0, 1.0, 1.0));
         }
 
       }) || _class));

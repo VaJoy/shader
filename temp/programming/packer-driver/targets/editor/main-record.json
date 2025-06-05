@@ -976,7 +976,7 @@
       ]
     },
     "cce:/internal/x/prerequisite-imports": {
-      "mTimestamp": 3473983.684833,
+      "mTimestamp": 4524342.116417,
       "chunkId": "6d8fd2b0177941b032ddc0733af48a561fb60657",
       "imports": [
         {
@@ -1910,7 +1910,7 @@
     },
     "file:///Users/vajoylan/Documents/GitHub/shader/assets/basic/3-opaque-property/ChangeCoverColor.ts": {
       "mTimestamp": {
-        "mtime": 1749151764157.7488,
+        "mtime": 1749152812863.5662,
         "uuid": "301fc888-1947-489a-be26-310258e9b17f"
       },
       "chunkId": "dca408d9f628df8ae36bc5cf15309526defa5d97",
