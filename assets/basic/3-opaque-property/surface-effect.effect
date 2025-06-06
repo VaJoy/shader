@@ -19,8 +19,6 @@ CCProgram vs %{
   #endif
   in vec3 a_position;
   in vec2 a_texCoord;
-  in vec4 a_color;
-  out vec4 v_light;
   out vec2 uv0;
   
   vec4 vert() {
@@ -32,7 +30,6 @@ CCProgram vs %{
 
     pos = cc_matViewProj * pos;
 
-    v_light = a_color;
     uv0 = a_texCoord;
     
     return  pos;
@@ -42,7 +39,6 @@ CCProgram vs %{
 CCProgram fs %{
   precision highp float;
 
-  in vec4 v_light;
   in vec2 uv0;
   uniform Arg {
     vec4 coverColor;
